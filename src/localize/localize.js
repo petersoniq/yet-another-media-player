@@ -14,6 +14,7 @@ const languages = {
     it,
     nl,
     pt,
+    sk,
 };
 
 export function localize(string, search = '', replace = '') {
